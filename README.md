@@ -2,7 +2,7 @@
 
 Data repository accompanying the paper:
 
-__The genomic basis of adaptation to the deep water ‘twilight zone’ in endemic Lake Malawi cichlids__
+__The genomic basis of adaptation to the deep water ‘twilight zone’ in Lake Malawi cichlid fishes__
 
 Christoph Hahn, Martin J Genner, George F Turner, and Domino A Joyce.
 

@@ -3,10 +3,12 @@
 
 Data repository accompanying the paper:
 
-__The genomic basis of adaptation to the deep water ‘twilight zone’ in Lake Malawi cichlid fishes__
+__The genomic basis of cichlid fish adaptation within the deep water ‘twilight zone’ of Lake Malawi__
 
 Christoph Hahn, Martin J Genner, George F Turner, and Domino A Joyce.
 
+
+The final version of the repository as referred to in the manuscript currently in press in *Evolution Letters* is archived at:
 
 BioRxiv-1.0 version of this repository has been archived: [![DOI](https://zenodo.org/badge/77223728.svg)](https://zenodo.org/badge/latestdoi/77223728)
 
